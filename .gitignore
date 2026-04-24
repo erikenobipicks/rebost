@@ -1,0 +1,19 @@
+# Supabase CLI
+supabase/.temp/
+supabase/.branches/
+
+# Claude Code local config
+.claude/
+
+# Environment
+.env
+.env.local
+*.env
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
